@@ -17,3 +17,7 @@ namespace Restart_to_BIOS
         }
     }
 }
+
+// You must run this program as an administrator or this will not work
+
+// August, 2024
